@@ -12,10 +12,10 @@ A UFTeX é composta por diferentes classes, cada uma com um foco específico:
 
 | Repositório | Classe Principal | Finalidade do Documento | Público-alvo |
 | :--- | :--- | :--- | :--- |
-| **[UFTeX](https://github.com/UFTeX/UFTeX)** | `uftex.cls` | **Trabalhos Acadêmicos:** Monografias, TCCs, Dissertações e Teses. | Estudantes de Graduação e Pós-Graduação. |
+| **[UFTeX]([https://github.com/UFTeX/UFTeX](https://uftex.github.io/UFTeX/))** | `uftex.cls` | **Trabalhos Acadêmicos:** Monografias, TCCs, Dissertações e Teses. | Estudantes de Graduação e Pós-Graduação. |
 | **[UFTCourses](https://github.com/UFTeX/UFTCourses)** | `uftcourses.cls` | **Documentos de Ensino:** Programas de Disciplina, Planos de Ensino e Avaliações (Provas/Exames). | Docentes e Coordenações de Curso. |
-| **[UFTPIBIC](https://github.com/UFTeX/UFTPIBIC)** | `uftpibic.cls` (Presumido) | **Iniciação Científica:** Relatórios Finais e Resumos de projetos PIBIC/PIBITI. | Bolsistas e Orientadores de IC. |
-| **[UFTDocs](https://github.com/UFTeX/UFTDocs)** | `uftdocs.cls` (Presumido) | **Documentos Administrativos:** Ofícios, Memorandos e Relatórios Internos da instituição. | Servidores Técnicos e Administrativos. |
+| **[UFTPIBIC](https://github.com/UFTeX/UFTPIBIC)** | `uftpibic.cls` | **Iniciação Científica:** Relatórios Finais e Resumos de projetos PIBIC/PIBITI. | Bolsistas e Orientadores de IC. |
+| **[UFTDocs](https://github.com/UFTeX/UFTDocs)** | `uftdocs.cls` | **Documentos Administrativos:** Ofícios, Memorandos e Relatórios Internos da instituição. | Servidores Técnicos e Administrativos. |
 
 ## ✨ Destaques e Funcionalidades Comuns
 
