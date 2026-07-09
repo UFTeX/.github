@@ -1,4 +1,5 @@
 # UFTeX: Modelos LaTeX Padronizados da UFT
+
 A organização **UFTeX** centraliza modelos e classes LaTeX (`.cls`) criados para padronizar a documentação acadêmica, administrativa e de ensino na **Universidade Federal do Tocantins (UFT)**.
 Nosso objetivo é garantir que os documentos estejam em conformidade com as normas da ABNT e com a identidade visual da UFT, simplificando a vida de estudantes, professores e técnicos.
 ---
